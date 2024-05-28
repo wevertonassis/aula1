@@ -179,3 +179,13 @@ body {
 .home-sci a:hover::before {
     width: 100%;
 }
+
+div img {
+    width: 440px;
+    height: 500px;
+    border-radius: 20%;
+    border: 4px solid #00abf0;
+    position: relative;
+    display: flex;
+    margin-left: 600px;
+}
